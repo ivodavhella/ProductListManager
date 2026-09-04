@@ -218,7 +218,6 @@ static void ViewProducts(
 
 
 // Searches for products in the product list.
-//
 // productService: The ProductService object used
 // to search for products.
 static void SearchProduct(
