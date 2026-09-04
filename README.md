@@ -1,6 +1,5 @@
 # Product List Manager
-
-A simple C# console application for managing a list of products.
+A project in Visual Studio with a C# console application for managing a list of products.
 
 ## Features
 
@@ -20,7 +19,6 @@ Products must follow this format:
 LETTERS-NUMBER
 
 Examples:
-
 CE-400
 XX-480
 LABAN-231
@@ -51,6 +49,8 @@ ProductListManager/
 ### Product
 
 The `Product` class represents a product using a name and product number.
+Examples:
+CE-400
 
 ### ProductService
 
@@ -72,10 +72,16 @@ Products can be saved to `products.txt`. Before saving, they are sorted alphabet
 ## How to Run
 
 Open the project in Visual Studio and run the application.
+  Roll down the menu tab "Debug"
+  Click on "Start Debugging"
+  A Commnad Prompt window will open 
 
-```bash
-dotnet run
-```
+Or
+
+  ```bash
+  dotnet run
+  ```
+  A Commnad Prompt window will open 
 
 ## Author
 
