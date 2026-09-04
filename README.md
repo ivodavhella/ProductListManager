@@ -72,9 +72,13 @@ Products can be saved to `products.txt`. Before saving, they are sorted alphabet
 ## How to Run
 
 Open the project in Visual Studio and run the application.
+  ```bash
   Roll down the menu tab "Debug"
+  ```bash
   Click on "Start Debugging"
-  A Commnad Prompt window will open 
+  ```bash
+  A Commnad Prompt window will open
+  ```bash
 
 Or
 
